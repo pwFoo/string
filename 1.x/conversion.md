@@ -5,7 +5,7 @@ title: Conversion methods
 description: Methods used to convert multibyte strings to lowercase, uppercase and ASCII.
 keywords: opis, string, multibyte, unicode, utf-8, lowercase, uppercase, ascii
 ---
-# Conversion
+# Conversion methods
 
 1. [toLower](#tolower)
 2. [toUpper](#toupper)
