@@ -7,9 +7,9 @@ lib:
     name: opis/string
     version: 1.4.0
 ---
-# Manipulate multi-byte strings
+# Work with multibyte strings
 
-This tiny library allows you to manipulate multi-byte encoded strings, 
+This tiny library allows you to work with multibyte encoded strings, 
 using an object-oriented paradigm. The library has no dependencies to *mbstring* 
 or similar PHP extensions and is compatible with PHP 5.3+, PHP 7.0 and HHVM.
 
