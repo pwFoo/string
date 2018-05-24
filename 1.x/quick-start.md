@@ -2,7 +2,8 @@
 layout: project
 version: 1.x
 title: Quick start
-description: 
+description: Examples about how to create and how to use multibyte strings 
+ in PHP, with the help of Opis String library
 keywords: opis, string, multibyte, unicode, utf-8, encoding, examples, quick start
 ---
 # Quick start
