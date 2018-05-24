@@ -2,7 +2,8 @@
 layout: project
 version: 1.x
 title: About
-description: About this library
+description: Working with multibyte encoded strings in PHP
+keywords: opis, string, multibyte, unicode, utf-8, encoding
 lib: 
     name: opis/string
     version: 1.4.0
@@ -11,7 +12,7 @@ lib:
 
 This tiny library allows you to work with multibyte encoded strings, 
 using an object-oriented paradigm. The library has no dependencies to *mbstring* 
-or similar PHP extensions and is compatible with PHP 5.3+, PHP 7.0 and HHVM.
+or similar PHP extensions and is compatible with PHP 5.3+, PHP 7.0+ and HHVM.
 
 ## License
 

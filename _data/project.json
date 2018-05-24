@@ -3,7 +3,7 @@
     "name": "String",
     "github": "https://github.com/opis/string",
     "version": "1.4.0",
-    "url": "/database",
+    "url": "/string",
     "chapters": true,
     "copyright": {
         "owner": "The Opis Project",
