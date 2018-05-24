@@ -7,7 +7,7 @@ keywords: opis, string, multibyte, unicode, utf-8, encoding, examples, quick sta
 ---
 # Quick start
 
-Creating a new Unicode string is done using the static method `from`.
+Creating a new multibyte string is done by using the static method `from`.
 
 ```php
 use Opis\String\UnicodeString as wstring;
